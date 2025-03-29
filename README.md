@@ -5,7 +5,7 @@
 Установка wget
 После завершения вышеописанных действий команда:
 
-"sudo yum install wget"
+    sudo yum install wget
 будет успешно выполнена, и пакет wget будет установлен на систему.
 
 ![image](https://github.com/user-attachments/assets/449797c8-6a78-47d1-9477-d26c20c162ce)
