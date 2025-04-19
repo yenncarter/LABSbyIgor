@@ -281,9 +281,9 @@ config/*: все файлы из директории config.
 
 **Добавление источника данных Prometheus**
 
-После того как зашли, нужно создать Dashboards. Путь где его можно создать Home -> Connections -> Data sources -> Add data source
+После того как зашли, нужно создать Dashboards. Путь где его можно создать `Home` -> `Connections` -> `Data sources` -> `Add data source`
 
-Где нужно нажать на +Add visualization -> Configure a new data source -> Prometheus
+Где нужно нажать на `+Add visualization` -> `Configure a new data source` -> `Prometheus`
 
 Настройки:
 Connection: `http://prometheus:9090`
@@ -293,9 +293,9 @@ Authentication: `Basic authentication`
 ---
 
 **Импорт дашборда**
-Cоздав Dashboards импортируем его: Путь где его можно импортировать Home -> Dashboards -> Import dashboard
+Cоздав Dashboards импортируем его: Путь где его можно импортировать `Home` -> `Dashboards` -> `Import dashboard`
 
-В поле нужно написать 1860 -> Load. Select Prometheus -> Import -> Название Prometheus
+В поле нужно написать `1860` -> `Load`. `Select Prometheus` -> `Import` -> `Название Prometheus`
 
 ![image](https://github.com/user-attachments/assets/9c655a52-5809-4a8f-8485-fdd51cee9aba)
 
